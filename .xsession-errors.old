@@ -1,20 +1,20 @@
 openConnection: connect: No existe el archivo o el directorio
 cannot connect to brltty at :0
-upstart: unity-settings-daemon main proceso terminado, reiniciando
-upstart: bamfdaemon main proceso (18616) interumpido por la señal TERM
-upstart: hud main proceso (18639) interumpido por la señal HUP
-upstart: unity7 main proceso (18654) terminó con estatus 1
-upstart: at-spi2-registryd main proceso (18656) interumpido por la señal HUP
-upstart: gnome-session (Unity) main proceso (18658) interumpido por la señal HUP
-upstart: unity-panel-service main proceso (18660) interumpido por la señal HUP
-upstart: indicator-messages main proceso (19008) interumpido por la señal HUP
-upstart: indicator-bluetooth main proceso (19010) interumpido por la señal TERM
-upstart: indicator-power main proceso (19011) interumpido por la señal TERM
-upstart: indicator-datetime main proceso (19014) interumpido por la señal TERM
-upstart: indicator-keyboard main proceso (19017) interumpido por la señal HUP
-upstart: indicator-sound main proceso (19018) interumpido por la señal HUP
-upstart: indicator-printers main proceso (19021) interumpido por la señal TERM
-upstart: indicator-session main proceso (19022) interumpido por la señal TERM
-upstart: indicator-application main proceso (19029) interumpido por la señal TERM
-upstart: unity-settings-daemon main proceso (20528) interumpido por la señal TERM
+upstart: upstart-dbus-session-bridge main proceso (1526) terminó con estatus 1
+upstart: bamfdaemon main proceso (1601) interumpido por la señal TERM
+upstart: hud main proceso (1620) interumpido por la señal HUP
+upstart: unity-settings-daemon main proceso (1622) interumpido por la señal HUP
+upstart: gnome-session (Unity) main proceso (1632) interumpido por la señal HUP
+upstart: unity-panel-service main proceso (1639) interumpido por la señal HUP
+upstart: unity7 main proceso (1646) terminó con estatus 1
+upstart: indicator-bluetooth main proceso (1670) interumpido por la señal TERM
+upstart: indicator-power main proceso (1673) interumpido por la señal TERM
+upstart: indicator-datetime main proceso (1674) interumpido por la señal TERM
+upstart: indicator-keyboard main proceso (1675) interumpido por la señal HUP
+upstart: indicator-sound main proceso (1677) interumpido por la señal HUP
+upstart: indicator-printers main proceso (1680) interumpido por la señal TERM
+upstart: indicator-session main proceso (1681) interumpido por la señal TERM
+upstart: indicator-application main proceso (1714) interumpido por la señal TERM
+upstart: indicator-application pre-stop proceso (2451) interumpido por la señal TERM
+upstart: gnome-session (Unity) pre-stop proceso (2452) interumpido por la señal TERM
 upstart: Disconnected from notified D-Bus bus
